@@ -2,4 +2,4 @@ numpy>1.2
 scipy
 matplotlib
 Sympy
-
+Pandas
